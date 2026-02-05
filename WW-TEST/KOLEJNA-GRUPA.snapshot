@@ -1,0 +1,62 @@
+{
+  "header" : {
+    "dataModelVersion" : "3"
+  },
+  "content" : {
+    "flowSnapshot" : {
+      "externalControllerServices" : { },
+      "flowContents" : {
+        "comments" : "",
+        "componentType" : "PROCESS_GROUP",
+        "connections" : [ ],
+        "controllerServices" : [ ],
+        "defaultBackPressureDataSizeThreshold" : "1 GB",
+        "defaultBackPressureObjectThreshold" : 10000,
+        "defaultFlowFileExpiration" : "0 sec",
+        "executionEngine" : "INHERITED",
+        "flowFileConcurrency" : "UNBOUNDED",
+        "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
+        "funnels" : [ ],
+        "identifier" : "b83aa624-d351-3e46-bb4c-20ccd161f8e8",
+        "inputPorts" : [ ],
+        "instanceIdentifier" : "2e544e96-019c-1000-4ff0-a1dbc2ff3f48",
+        "labels" : [ ],
+        "maxConcurrentTasks" : 1,
+        "name" : "KOLEJNA-GRUPA",
+        "outputPorts" : [ ],
+        "parameterContextName" : "DEV_PARAMS",
+        "position" : {
+          "x" : -888.0,
+          "y" : -880.0
+        },
+        "processGroups" : [ ],
+        "processors" : [ ],
+        "remoteProcessGroups" : [ ],
+        "scheduledState" : "ENABLED",
+        "statelessFlowTimeout" : "1 min"
+      },
+      "flowEncodingVersion" : "1.0",
+      "parameterContexts" : {
+        "DEV_PARAMS" : {
+          "componentType" : "PARAMETER_CONTEXT",
+          "description" : "",
+          "inheritedParameterContexts" : [ ],
+          "name" : "DEV_PARAMS",
+          "parameters" : [ {
+            "description" : "",
+            "name" : "PASSWORD",
+            "provided" : false,
+            "sensitive" : true
+          }, {
+            "description" : "",
+            "name" : "NAZWA",
+            "provided" : false,
+            "sensitive" : false,
+            "value" : "wojtas"
+          } ]
+        }
+      },
+      "parameterProviders" : { }
+    }
+  }
+}
