@@ -1,7 +1,7 @@
 flows:
   ab23f98f-7a8c-4c15-868e-eddad9c39103: {ver: 1, file: Detail_flows.snapshot, comments: '',
     author: anonymous, created: 1770303495758, flowName: Detail_flows, flowDesc: ''}
-  93f3eeec-d2f0-4a59-bf6c-30f23179c05b: {ver: 3, file: WW-flow.snapshot, comments: pliki
-      2.0, author: anonymous, created: 1770303459027, flowName: WW-flow, flowDesc: ''}
+  93f3eeec-d2f0-4a59-bf6c-30f23179c05b: {ver: 4, file: WW-flow.snapshot, comments: '',
+    author: anonymous, created: 1770303704984, flowName: WW-flow, flowDesc: ''}
 layoutVer: 1
 bucketId: 8dc68d90-74b0-4d27-a0f2-f3b9911c5657
